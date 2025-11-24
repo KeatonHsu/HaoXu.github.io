@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a student in Psychiatry and Mental Health at Peking University Health Science Center.
+PhD student
+    Peking University Health Science Center, Psychiatry and Mental Health, Since September 2025.
 
-2024~2025, Beijign Huilongguan Hospital,Psychological Therapist/ Research Assistant
-2021~2024, North China University of Science and Technology, Applied Psychology 
+Employee
+    Beijing Huilongguan Hospital, Psychological Therapist/ Research Assistant, July 2024~ July 2025.
 
-More ditails about me, please visit ORCID(0009-0000-1102-2801).
+MA in Psychology
+    North China University of Science and Technology, Applied Psychology, September 2021 ~ June 2024.
+
+BA in Engineering
+    Tianjin Chengjian University, Industrial Design，September 2012 ~ June 2016.
+
 E-mail: haoxu1224@gmail.com
